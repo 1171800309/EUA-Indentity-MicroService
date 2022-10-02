@@ -1,0 +1,15 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/src/EUA.Identity/EUA.Core/obj
+/src/EUA.Identity/EUA.Domain/obj
+/src/EUA.Identity/EUA.Identity/bin/Debug/netcoreapp3.1
+/src/EUA.Identity/EUA.Identity/obj
+/src/EUA.Identity/EUA.Infrastructure/obj
+/src/EUA.Identity/.vs/EUA.Identity
+/src/EUA.Identity/EUA.Application/bin/Debug/netcoreapp3.1
+/src/EUA.Identity/EUA.Application/obj
+/src/EUA.Identity/EUA.Core/bin/Debug/netcoreapp3.1
+/src/EUA.Identity/EUA.Domain/bin/Debug/netcoreapp3.1
+/src/EUA.Identity/EUA.Infrastructure/bin/Debug/netcoreapp3.1
